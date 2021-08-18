@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Roman",
+      "employeeid": "Roman93",
+      "email": "Roman12@gmail.com",
+      "phone": "123456789",
+      "id": 1
+    },
+    {
+      "name": "john",
+      "employeeid": "john38",
+      "email": "john@gmail.com",
+      "phone": "846383927393",
+      "id": 2
+    },
+    {
+      "name": "carlos",
+      "employeeid": "carlos52",
+      "email": "carlos@gmail.com",
+      "phone": "676637293627",
+      "id": 3
+    }
+  ]
+}
